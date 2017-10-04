@@ -1,0 +1,16 @@
+Name: tba
+Description: An online library from where people can download ebooks/pdf/text files
+Elements:
+  -Database with all the books available
+  - small database, where people can upload books(must be reviewed, before added into the main database)
+  -Main page:
+    -Search bar
+    -menu for sorting into:
+      -Genres
+      -Age
+      -Type of books
+      -Author
+      -Language
+    - small chat/email for requesting books
+  -download button for every book
+                                
